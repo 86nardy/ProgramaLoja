@@ -1,0 +1,13 @@
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe.config
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.pdb
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csprojAssemblyReference.cache
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.Properties.Resources.resources
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csproj.GenerateResource.cache
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csproj.CoreCompileInputs.cache
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.exe
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.pdb
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csproj.CopyComplete
+C:\Projetos-Nardy\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.Início.resources
